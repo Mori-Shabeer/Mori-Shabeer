@@ -1,18 +1,23 @@
 # Hi there, I'm Mohammed Shabeer Hussain 👋
 
-![Digital Marketing Write For Us](Digital-Marketing-Write-For-Us.gif)
+![Digital Marketing Write For Us](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGxuanEwd3VnNGgyanlsdWltMWN0bXltZzFlMTNmM2pvNDIxZ3dwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mWK6qsWFY6w5xMKG5D/giphy.gif)
 
 ## 💼 Professional Background
 In my previous life, I roamed the realm of IT recruitment, helping companies find the best talent in skills like SAP, Oracle, AWS, and Data expertise. It was during these adventures that I stumbled upon the captivating world of data. Conversations with Data Experts sparked a fire within me, igniting my passion for all things data-related.
 
-## 🚀 Aspiring Data Analyst
-I am an aspiring Data Analyst with hands-on experience in:
+## 🚀 Data Analyst
+I am a Data Analyst, and Data is my Domain.
+
+![Data Domain](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmdpazF1b3YwdWxrbjY2anQxd3kyM2RpbXFzZGJsdTRzbTVzZ2xpMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UgV8Y7bDxsZDCP01eo/giphy-downsized-large.gif)
+
+With hands-on experience in:
 
 - **Power BI** 📊
 - **Tableau** 📈
 - **SQL** 🗃️
 - **Python** 🐍
 - **R** 📐
+- **Excel** 📊
 - **Azure Databases** ☁️
 
 ## 🔜 Coming Soon
