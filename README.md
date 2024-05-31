@@ -15,6 +15,14 @@ I am an aspiring Data Analyst with hands-on experience in:
 - **R** 📐
 - **Azure Databases** ☁️
 
+## 🔜 Coming Soon
+Exciting projects are in the pipeline! Here's a sneak peek:
+
+1. **Excel Project:** Analyzing data from My Anime List to uncover trends and insights within the anime community.
+2. **Tableau Project:** Creating a Company KPI Dashboard to track performance metrics and visualize key data points.
+
+Stay tuned for updates and repositories!
+
 ## 🚀 Personal Philosophy
 I'm a firm believer in delivering nothing but the best in everything I do, whether it's in my professional endeavors or my social interactions. Being number one isn't just a goal; it's a way of life! 💪
 
